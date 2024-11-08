@@ -1,0 +1,19 @@
+.social-icons a {
+  text-decoration: none;
+}
+
+.social-icons a:hover .bi-facebook {
+  color: #1877F2;
+}
+
+.social-icons a:hover .bi-twitter {
+  color: #1DA1F2;
+}
+
+.social-icons a:hover .bi-instagram {
+  color: #E4405F;
+}
+
+.social-icons a:hover .bi-youtube {
+  color: #FF0000;
+}/*# sourceMappingURL=variables.css.map */
